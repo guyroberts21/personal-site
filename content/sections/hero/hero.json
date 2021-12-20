@@ -10,9 +10,9 @@
 		"highlight": "developer",
 		"suffix": "."
 	},
-	"description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+	"description": "Experienced developer with a focus on clean, elegant and efficient code.",
 	"socialProfiles": {
-		"from": ["LinkedIn", "Medium", "Github", "Mail"],
+		"from": ["LinkedIn", "Github", "Mail"],
 		"showIcons": true
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"siteMetadata": {
 		"language": "en",
-		"siteUrl": "http://grcode.software/",
+		"siteUrl": "https://gatsby-starter-portfolio-minimal.netlify.app/",
 		"title": "Guy Roberts - Personal Site",
 		"titleTemplate": "%s · Portfolio Minimal",
 		"description": "Personal website created using Gatsby",
@@ -11,8 +11,7 @@
 		"social": {
 			"behance": "https://behance.com",
 			"github": "https://github.com/guyroberts21",
-			"medium": "https://konstantinmuenster.medium.com",
-			"linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+			"linkedin": "https://www.linkedin.com/in/guy-roberts-9868861ba/",
 			"mail": "mailto:guyroberts21@outlook.com"
 		}
 	},
@@ -28,7 +27,7 @@
 			"ctaButton": {
 				"openNewTab": true,
 				"label": "Resume",
-				"url": "/resume.pdf"
+				"url": "resume.pdf"
 			},
 			"footer": [
 				{ "label": "Privacy", "url": "/privacy" },
