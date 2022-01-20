@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
-  "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
-  },
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": true
-  }
+	"name": "Guy Roberts",
+	"email": "guyroberts21@outlook.com",
+	"description": "The best way to contact me is via email 📧",
+	"image": {
+		"src": "../../images/favicon.png",
+		"alt": "Site Logo"
+	},
+	"socialProfiles": {
+		"from": ["GitHub", "LinkedIn", "Mail"],
+		"showIcons": true
+	}
 }

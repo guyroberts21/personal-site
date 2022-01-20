@@ -1,33 +1,31 @@
 {
 	"siteMetadata": {
 		"language": "en",
-		"siteUrl": "https://gatsby-starter-portfolio-minimal.netlify.app/",
+		"siteUrl": "https://grcode.software",
 		"title": "Guy Roberts - Personal Site",
 		"titleTemplate": "%s · Portfolio Minimal",
 		"description": "Personal website created using Gatsby",
 		"author": "Guy Roberts",
-		"avatar": "../content/images/gatsby.png",
+		"avatar": "../content/images/favicon.png",
 		"bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
 		"social": {
-			"behance": "https://behance.com",
 			"github": "https://github.com/guyroberts21",
-			"linkedin": "https://www.linkedin.com/in/guy-roberts-9868861ba/",
+			"linkedin": "https://www.linkedin.com/in/guyroberts21",
 			"mail": "mailto:guyroberts21@outlook.com"
 		}
 	},
 	"siteConfiguration": {
-		"logo": { "text": "Guy Roberts" },
+		"logo": { "text": "The Coding Guy" },
 		"navigation": {
 			"header": [
 				{ "label": "About", "url": "/#about" },
-				{ "label": "Blog", "url": "/blog" },
-				{ "label": "Features", "url": "/#features" },
-				{ "label": "Github", "url": "/#github" }
+				{ "label": "Skills", "url": "/#skills" },
+				{ "label": "Projects", "url": "/#projects" }
 			],
 			"ctaButton": {
-				"openNewTab": true,
-				"label": "Resume",
-				"url": "resume.pdf"
+				"openNewTab": false,
+				"label": "Contact",
+				"url": "/#contact"
 			},
 			"footer": [
 				{ "label": "Privacy", "url": "/privacy" },

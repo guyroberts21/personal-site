@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/portrait.jpg'
+imageAlt: 'Portrait Photo'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hi, I’m Guy. I am in my second year of studying Maths and Computer Science at Durham University. I have a keen interest in problem-solving and I often find myself absorbed in fascinating <a href="/#projects"><u>projects.</u></a>
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I am an active person and enjoy mountain-biking, running and gymnastics. When relaxing, I like to play the piano, code or play video games with my friends. I love programming with web technologies and have spent lots of time developing various projects such as this website.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I have also recently started tutoring and have been giving lessons to students studying for their school exams in Maths as well as teaching people how to code. <a href="/#contact"><u>Get in touch</u></a> if you'd like to learn more about this!

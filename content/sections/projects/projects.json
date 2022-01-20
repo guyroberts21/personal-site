@@ -1,47 +1,43 @@
 {
-  "projects": [
-    {
-      "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
-    }
-  ],
-  "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
-  }
+	"projects": [
+		{
+			"visible": true,
+			"category": "🕸 REACT/WEB",
+			"title": "Battleship",
+			"description": "A battleships game created using React. This project used Test-Driven Development (TDD) as well as the HTML Drag and Drop API. These were two really interesting technologies to learn, and the build process was really rewarding.",
+			"tags": ["React", "HTML/CSS"],
+			"image": {
+				"src": "../../images/battleship.PNG",
+				"alt": "Battleship"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/guyroberts21/battleship"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "📊 MACHINE LEARNING/ARTIFICIAL INTELLIGENCE",
+			"title": "Machine Learning project in Python",
+			"description": "This study aims toexplore different machine learning models which are trained on data of a humour questionnaire.From  this  study,  we  learnt  that  designing  models  formachine  learning  problems  can  be  extremely  difficult  andoften complex. There are many different factors that affecthow a model performs and optimising any model requiresa vast understanding of how the algorithm works as well ashow it could be improved.",
+			"tags": ["Supervised Learning", "Predictive Modelling"],
+			"image": {
+				"src": "../../images/heatmap.png",
+				"alt": "Machine Learning Graph"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/guyroberts21/humour-styles-ml"
+				}
+			]
+		}
+	],
+	"button": {
+		"visible": true,
+		"label": "Visit on Github",
+		"url": "https://github.com/guyroberts21/"
+	}
 }
