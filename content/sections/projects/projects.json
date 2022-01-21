@@ -21,7 +21,7 @@
 			"visible": true,
 			"category": "📊 MACHINE LEARNING/ARTIFICIAL INTELLIGENCE",
 			"title": "Machine Learning project in Python",
-			"description": "This study aims toexplore different machine learning models which are trained on data of a humour questionnaire.From  this  study,  we  learnt  that  designing  models  formachine  learning  problems  can  be  extremely  difficult  andoften complex. There are many different factors that affecthow a model performs and optimising any model requiresa vast understanding of how the algorithm works as well ashow it could be improved.",
+			"description": "This study aims to explore different machine learning models which are trained on data of a humour questionnaire. From  this  study,  we  learnt  that  designing  models  formachine  learning  problems  can  be  extremely  difficult  and often complex. There are many different factors that affect how a model performs and optimising any model requires a vast understanding of how the algorithm works as well as how it could be improved.",
 			"tags": ["Supervised Learning", "Predictive Modelling"],
 			"image": {
 				"src": "../../images/heatmap.png",
